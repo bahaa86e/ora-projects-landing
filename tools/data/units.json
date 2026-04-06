@@ -1,0 +1,202 @@
+{
+  "zed-east": [
+    {
+      "type": "1BR",
+      "area": "75 sqm",
+      "price": "From 11.8M EGP",
+      "dp": "590,000 EGP",
+      "inst": "250,000 EGP / quarter (sample band)",
+      "delivery": "Q1 2030",
+      "img": "zed-east-new-cairo-apartments-new-cairo-egypt.webp",
+      "alt": "ZED East, New Cairo, Egypt: one-bedroom apartment for sale — indicative price from published marketing."
+    },
+    {
+      "type": "2BR",
+      "area": "105 sqm",
+      "price": "From 16.2M EGP",
+      "dp": "810,000 EGP",
+      "inst": "340,000 EGP / quarter (sample band)",
+      "delivery": "Q1 2030",
+      "img": "zed-east-new-cairo-balcony-view-luxury-apartments.webp",
+      "alt": "ZED East, New Cairo, Egypt: two-bedroom apartment with balcony — flats for sale, sample EGP bands."
+    },
+    {
+      "type": "3BR",
+      "area": "140 sqm",
+      "price": "From 22.8M EGP",
+      "dp": "1,140,000 EGP",
+      "inst": "480,000 EGP / quarter (sample band)",
+      "delivery": "Q1 2030",
+      "img": "zed-east-new-cairo-modern-apartment-complex.webp",
+      "alt": "ZED East, New Cairo, Egypt: three-bedroom apartments for sale — modern towers in a gated compound."
+    },
+    {
+      "type": "Townhouse",
+      "area": "200 sqm",
+      "price": "From 38M EGP",
+      "dp": "1,910,000 EGP",
+      "inst": "960,000 EGP / quarter (sample band)",
+      "delivery": "Q1 2030",
+      "img": "zed-east-new-cairo-townhouses-new-cairo-egypt.webp",
+      "alt": "ZED East, New Cairo, Egypt: townhouse for sale — contemporary homes with private outdoor space."
+    }
+  ],
+  "zed-west": [
+    {
+      "type": "1BR",
+      "area": "70–90 sqm",
+      "price": "From 9.7M EGP",
+      "dp": "487,000 – 635,000 EGP",
+      "inst": "On plan — up to 10 years",
+      "delivery": "Q1 2030",
+      "img": "zed-west-sheikh-zayed-city-view-apartments-ora.webp",
+      "alt": "ZED West, Sheikh Zayed, Egypt: one-bedroom apartments for sale — city-view towers, sample prices in EGP."
+    },
+    {
+      "type": "2BR",
+      "area": "95–130 sqm",
+      "price": "From 13.7M EGP",
+      "dp": "685,000 – 858,000 EGP",
+      "inst": "On plan — up to 10 years",
+      "delivery": "Q1 2030",
+      "img": "zed-west-sheikh-zayed-lagoon-view-compound-ora.webp",
+      "alt": "ZED West, Sheikh Zayed, Egypt: two-bedroom lagoon-view apartments for sale — on-plan payment options."
+    },
+    {
+      "type": "3BR",
+      "area": "155–200 sqm",
+      "price": "From 22M EGP",
+      "dp": "1,100,000 – 1,400,000 EGP",
+      "inst": "On plan — up to 10 years",
+      "delivery": "Q1 2030",
+      "img": "zed-west-sheikh-zayed-residential-buildings-modern-design.webp",
+      "alt": "ZED West, Sheikh Zayed, Egypt: three-bedroom apartments for sale — spacious layouts in ORA compound."
+    }
+  ],
+  "solana-west": [
+    {
+      "type": "1BR Apartment",
+      "area": "78–92 sqm",
+      "price": "From 10.4M EGP",
+      "dp": "From 520,000 EGP",
+      "inst": "On plan — ORA schedule",
+      "delivery": "Q2 2029",
+      "img": "solana-west-new-zayed-apartments-new-zayed-egypt.webp",
+      "alt": "Solana West, New Zayed, Egypt: one-bedroom apartments for sale — low-rise blocks, indicative pricing."
+    },
+    {
+      "type": "2BR Apartment",
+      "area": "110–125 sqm",
+      "price": "From 14.4M EGP",
+      "dp": "From 720,000 EGP",
+      "inst": "On plan — ORA schedule",
+      "delivery": "Q2 2029",
+      "img": "solana-west-new-zayed-low-rise-apartments-egypt.webp",
+      "alt": "Solana West, New Zayed, Egypt: two-bedroom apartments for sale — landscaped compound near Cairo."
+    },
+    {
+      "type": "3BR Apartment",
+      "area": "140–165 sqm",
+      "price": "From 19.6M EGP",
+      "dp": "From 980,000 EGP",
+      "inst": "On plan — ORA schedule",
+      "delivery": "Q2 2029",
+      "img": "solana-west-new-zayed-apartments-new-zayed-egypt-2.webp",
+      "alt": "Solana West, New Zayed, Egypt: three-bedroom apartments for sale — family-sized units, price on plan."
+    },
+    {
+      "type": "Villa",
+      "area": "220–280 sqm",
+      "price": "From 48M EGP",
+      "dp": "From 2.4M EGP",
+      "inst": "On plan — ORA schedule",
+      "delivery": "Q3 2029",
+      "img": "solana-west-new-zayed-villa-facade-modern-architecture.webp",
+      "alt": "Solana West, New Zayed, Egypt: detached villa for sale — modern facade, private outdoor living."
+    },
+    {
+      "type": "Bungalow",
+      "area": "180–210 sqm",
+      "price": "From 37M EGP",
+      "dp": "From 1.85M EGP",
+      "inst": "On plan — ORA schedule",
+      "delivery": "Q3 2029",
+      "img": "solana-west-new-zayed-bungalow-style-villa-egypt.webp",
+      "alt": "Solana West, New Zayed, Egypt: bungalow villa for sale — single-level home with garden frontage."
+    }
+  ],
+  "solana-east": [
+    {
+      "type": "1BR",
+      "area": "72–88 sqm",
+      "price": "From 11.2M EGP",
+      "dp": "From 560,000 EGP",
+      "inst": "On plan — ORA schedule",
+      "delivery": "Q1 2030",
+      "img": "solana-east-new-cairo-apartments-modern-design-new-cairo.webp",
+      "alt": "Solana East, New Cairo, Egypt: one-bedroom apartments for sale — modern design in a green compound."
+    },
+    {
+      "type": "2BR",
+      "area": "105–118 sqm",
+      "price": "From 15.6M EGP",
+      "dp": "From 780,000 EGP",
+      "inst": "On plan — ORA schedule",
+      "delivery": "Q1 2030",
+      "img": "solana-east-new-cairo-townhouses-new-cairo-egypt.webp",
+      "alt": "Solana East, New Cairo, Egypt: two-bedroom homes near townhouses — apartments for sale, sample prices."
+    },
+    {
+      "type": "3BR",
+      "area": "135–155 sqm",
+      "price": "From 21M EGP",
+      "dp": "From 1.05M EGP",
+      "inst": "On plan — ORA schedule",
+      "delivery": "Q1 2030",
+      "img": "solana-east-new-cairo-modern-apartments-ora-developers.webp",
+      "alt": "Solana East, New Cairo, Egypt: three-bedroom apartments for sale — premium finishes, indicative EGP."
+    },
+    {
+      "type": "Townhouse",
+      "area": "185–220 sqm",
+      "price": "From 33M EGP",
+      "dp": "From 1.65M EGP",
+      "inst": "On plan — ORA schedule",
+      "delivery": "Q1 2030",
+      "img": "solana-east-new-cairo-townhouse-community-ora-egypt.webp",
+      "alt": "Solana East, New Cairo, Egypt: townhouse for sale — family-oriented streetscape, payment on ORA plan."
+    }
+  ],
+  "silversands": [
+    {
+      "type": "Beach chalet",
+      "area": "90–120 sqm",
+      "price": "From 27M EGP",
+      "dp": "5% of unit",
+      "inst": "Quarterly installments",
+      "delivery": "Per phase",
+      "img": "silversands-north-coast-beachfront-crystal-lagoon-sidi-heneish.webp",
+      "alt": "Silversands, North Coast, Egypt: beach chalet for sale — lagoon frontage, quarterly payment style."
+    },
+    {
+      "type": "Family villa",
+      "area": "220–350 sqm",
+      "price": "From 65M EGP",
+      "dp": "5% of unit",
+      "inst": "Quarterly installments",
+      "delivery": "Per phase",
+      "img": "silversands-north-coast-villas-for-sale-north-coast-egypt.webp",
+      "alt": "Silversands, North Coast, Egypt: family villa for sale — coastal living, price bands in EGP."
+    },
+    {
+      "type": "Signature villa",
+      "area": "400–600 sqm",
+      "price": "From 128M EGP (range)",
+      "dp": "5% of unit",
+      "inst": "Quarterly installments",
+      "delivery": "Per phase",
+      "img": "silversands-north-coast-villa-ora-developers.webp",
+      "alt": "Silversands, North Coast, Egypt: signature beach villa for sale — large coastal homes, indicative price."
+    }
+  ]
+}

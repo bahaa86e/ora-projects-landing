@@ -1,0 +1,18 @@
+{
+  "name": "ora-developers-egypt-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "images": "node scripts/ingest-assets.mjs",
+    "alts": "node scripts/refresh-media-alts.mjs",
+    "css": "node scripts/minify-css.mjs",
+    "js": "node scripts/minify-js.mjs",
+    "build": "npm run images && npm run css && npm run js && node tools/build.mjs",
+    "build:html": "node tools/build.mjs"
+  },
+  "devDependencies": {
+    "clean-css": "^5.3.3",
+    "sharp": "^0.33.5",
+    "terser": "^5.36.0"
+  }
+}

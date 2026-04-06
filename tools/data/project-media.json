@@ -1,0 +1,751 @@
+{
+  "site": {
+    "homeHero": {
+      "file": "silversands-north-coast-beachfront-crystal-lagoon-sidi-heneish.webp",
+      "alt": "Silversands North Coast Egypt: beach villas & chalets for sale — ORA price, payment plan, luxury stock."
+    }
+  },
+  "zed-west": {
+    "hero": [
+      {
+        "file": "zed-west-sheikh-zayed-modern-towers-ora-developers.webp",
+        "alt": "ZED West Sheikh Zayed Egypt: luxury apartments for sale, ORA price & payment plan."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-modern-towers-ora-developers-2.webp",
+        "alt": "ZED West towers Egypt: premium residences for sale — indicative villa-style living, price EGP."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-city-view-apartments-ora.webp",
+        "alt": "ZED West Sheikh Zayed Egypt: city-view apartments for sale, ORA villas search hub."
+      }
+    ],
+    "amenities": [
+      {
+        "file": "zed-west-sheikh-zayed-garden.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-green.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-lagoon.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-family-park-activities-egypt.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-green-landscape-ora-compound.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      }
+    ],
+    "gallery": [
+      {
+        "file": "zed-west-sheikh-zayed-lifestyle.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: interior and lifestyle views — for villa and apartment buyers in Egypt."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-site-plan.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-towers.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-area-view-map-egypt.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-building-design-ora-egypt.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-green-landscape-ora-compound-2.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-internal-garden-compound.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-internal-garden-compound-2.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-lagoon-view-compound-ora.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-lagoon-view-compound-ora-2.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-outdoor-lifestyle-community.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-outdoor-lifestyle-community-2.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-project-location-ora-developers.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-residential-buildings-modern-design.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-site-layout-compound-egypt.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "zed-west-sheikh-zayed-site-layout-compound-egypt-2.webp",
+        "alt": "ZED West, Sheikh Zayed, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      }
+    ]
+  },
+  "zed-east": {
+    "hero": [
+      {
+        "file": "zed-east-new-cairo-aerial-view-residential-community.webp",
+        "alt": "ZED East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "zed-east-new-cairo-master-plan-new-cairo-ora.webp",
+        "alt": "ZED East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "zed-east-new-cairo-mixed-use-development-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      }
+    ],
+    "amenities": [
+      {
+        "file": "zed-east-new-cairo-private-villa-with-garden-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "zed-east-new-cairo-park.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-walking.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-balcony-view-landscape-new-cairo.webp",
+        "alt": "ZED East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "zed-east-new-cairo-central-park-new-cairo-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      }
+    ],
+    "gallery": [
+      {
+        "file": "zed-east-new-cairo-balcony.webp",
+        "alt": "ZED East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "zed-east-new-cairo-city-view.webp",
+        "alt": "ZED East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "zed-east-new-cairo-site-plan.webp",
+        "alt": "ZED East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "zed-east-new-cairo-skyline.webp",
+        "alt": "ZED East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "zed-east-new-cairo-townhouse.webp",
+        "alt": "ZED East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "zed-east-new-cairo-twin-house.webp",
+        "alt": "ZED East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "zed-east-new-cairo-villas.webp",
+        "alt": "ZED East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "zed-east-new-cairo-villa-ora-developers.webp",
+        "alt": "ZED East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "zed-east-new-cairo-apartments-new-cairo-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "zed-east-new-cairo-balcony-view-luxury-apartments.webp",
+        "alt": "ZED East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "zed-east-new-cairo-balcony-view-luxury-apartments-2.webp",
+        "alt": "ZED East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "zed-east-new-cairo-city-view-compound-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "zed-east-new-cairo-city-view-compound-egypt-2.webp",
+        "alt": "ZED East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "zed-east-new-cairo-commercial-plaza-new-cairo-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: amenities and shared facilities — supporting villas and apartments for sale."
+      },
+      {
+        "file": "zed-east-new-cairo-community-park-green-lifestyle.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-community-park-green-lifestyle-2.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-family-park-area-ora-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-garden-view-luxury-living.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-green-landscape-community-ora.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-luxury-home-design-new-cairo.webp",
+        "alt": "ZED East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "zed-east-new-cairo-luxury-villa-design-new-cairo.webp",
+        "alt": "ZED East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "zed-east-new-cairo-modern-apartment-complex.webp",
+        "alt": "ZED East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "zed-east-new-cairo-modern-villa-facade-new-cairo-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "zed-east-new-cairo-open-green-landscape-new-cairo.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-open-green-spaces-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-project-map-new-cairo.webp",
+        "alt": "ZED East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "zed-east-new-cairo-site-layout-compound-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "zed-east-new-cairo-site-layout-compound-egypt-2.webp",
+        "alt": "ZED East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "zed-east-new-cairo-skyline-view-new-cairo-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "zed-east-new-cairo-standalone-villa-architecture-ora.webp",
+        "alt": "ZED East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "zed-east-new-cairo-standalone-villa-modern-design.webp",
+        "alt": "ZED East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "zed-east-new-cairo-townhouse-modern-architecture.webp",
+        "alt": "ZED East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "zed-east-new-cairo-townhouses-new-cairo-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "zed-east-new-cairo-twin-house-new-cairo-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "zed-east-new-cairo-twin-house-new-cairo-egypt-2.webp",
+        "alt": "ZED East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "zed-east-new-cairo-villa-modern-design-new-cairo-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "zed-east-new-cairo-villas-for-sale-new-cairo-egypt.webp",
+        "alt": "ZED East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "zed-east-new-cairo-walking-paths-new-cairo-compound.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-central-park-new-cairo-egypt-2.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-open-green-spaces-egypt-2.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "zed-east-new-cairo-walking-paths-new-cairo-compound-2.webp",
+        "alt": "ZED East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      }
+    ]
+  },
+  "solana-west": {
+    "hero": [
+      {
+        "file": "solana-west-new-zayed-master-plan-new-zayed-ora.webp",
+        "alt": "Solana West, New Zayed, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "solana-west-new-zayed-compound-buildings-ora-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-west-new-zayed-compound-buildings-ora-egypt-2.webp",
+        "alt": "Solana West, New Zayed, Egypt: apartments — for sale in a gated compound."
+      }
+    ],
+    "amenities": [
+      {
+        "file": "solana-west-new-zayed-pool-villa-modern-design.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-villa-with-private-pool-new-zayed.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-villa-with-private-pool-new-zayed-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-clubhouse-pool-new-zayed-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: amenities and shared facilities — supporting villas and apartments for sale."
+      },
+      {
+        "file": "solana-west-new-zayed-garden-view-luxury-compound.webp",
+        "alt": "Solana West, New Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      }
+    ],
+    "gallery": [
+      {
+        "file": "solana-west-new-zayed-apartments.webp",
+        "alt": "Solana West, New Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-west-new-zayed-bungalow.webp",
+        "alt": "Solana West, New Zayed, Egypt: bungalow villas — for sale with private outdoor space."
+      },
+      {
+        "file": "solana-west-new-zayed-compound.webp",
+        "alt": "Solana West, New Zayed, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "solana-west-new-zayed-lowrise.webp",
+        "alt": "Solana West, New Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-west-new-zayed-villa.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-villa-ora-developers.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-apartments-new-zayed-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-west-new-zayed-bungalow-style-villa-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: bungalow villas — for sale with private outdoor space."
+      },
+      {
+        "file": "solana-west-new-zayed-bungalow-style-villa-egypt-2.webp",
+        "alt": "Solana West, New Zayed, Egypt: bungalow villas — for sale with private outdoor space."
+      },
+      {
+        "file": "solana-west-new-zayed-high-end-villa-architecture.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-high-end-villa-architecture-2.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-luxury-lifestyle-new-zayed-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: interior and lifestyle views — for villa and apartment buyers in Egypt."
+      },
+      {
+        "file": "solana-west-new-zayed-luxury-living-room-new-zayed.webp",
+        "alt": "Solana West, New Zayed, Egypt: interior and lifestyle views — for villa and apartment buyers in Egypt."
+      },
+      {
+        "file": "solana-west-new-zayed-master-community-landscape-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "solana-west-new-zayed-minimal-villa-design-new-zayed.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-modern-villa-design-new-zayed.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-private-villa-entrance-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-residential-buildings-modern-design.webp",
+        "alt": "Solana West, New Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-west-new-zayed-row-houses-modern-design.webp",
+        "alt": "Solana West, New Zayed, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "solana-west-new-zayed-terrace-view-luxury-lifestyle-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: interior and lifestyle views — for villa and apartment buyers in Egypt."
+      },
+      {
+        "file": "solana-west-new-zayed-townhouse-community-ora-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "solana-west-new-zayed-villa-facade-modern-architecture.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-villa-night-view-luxury-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-west-new-zayed-walking-path-community-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "solana-west-new-zayed-apartments-new-zayed-egypt-2.webp",
+        "alt": "Solana West, New Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-west-new-zayed-apartments-new-zayed-egypt-3.webp",
+        "alt": "Solana West, New Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-west-new-zayed-low-rise-apartments-egypt.webp",
+        "alt": "Solana West, New Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-west-new-zayed-low-rise-apartments-egypt-2.webp",
+        "alt": "Solana West, New Zayed, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-west-new-zayed-minimal-villa-design-new-zayed-2.webp",
+        "alt": "Solana West, New Zayed, Egypt: villas — for sale with contemporary architecture."
+      }
+    ]
+  },
+  "solana-east": {
+    "hero": [
+      {
+        "file": "solana-east-new-cairo-compound-map-villas-new-cairo.webp",
+        "alt": "Solana East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "solana-east-new-cairo-compound-map-villas-new-cairo-2.webp",
+        "alt": "Solana East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "solana-east-new-cairo-master-plan-new-cairo-ora.webp",
+        "alt": "Solana East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      }
+    ],
+    "amenities": [
+      {
+        "file": "solana-east-new-cairo-villa-pool-design-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-private-villa-with-pool-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-villa-with-private-pool-new-cairo.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-garden-view-luxury-living.webp",
+        "alt": "Solana East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "solana-east-new-cairo-lagoon-view-new-cairo-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      }
+    ],
+    "gallery": [
+      {
+        "file": "solana-east-new-cairo-villa-ora-developers.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-apartment-buildings-new-cairo-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-east-new-cairo-apartments-modern-design-new-cairo.webp",
+        "alt": "Solana East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-east-new-cairo-compound-buildings-new-cairo.webp",
+        "alt": "Solana East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-east-new-cairo-compoundmap-villas-new-cairo.webp",
+        "alt": "Solana East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "solana-east-new-cairo-compoundmap-villas-new-cairo-2.webp",
+        "alt": "Solana East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "solana-east-new-cairo-high-end-villa-design-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-landscape-greenery-new-cairo.webp",
+        "alt": "Solana East, New Cairo, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "solana-east-new-cairo-low-rise-buildings-luxury-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-east-new-cairo-luxury-home-architecture-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "solana-east-new-cairo-luxury-home-design-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "solana-east-new-cairo-luxury-lifestyle-new-cairo-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: interior and lifestyle views — for villa and apartment buyers in Egypt."
+      },
+      {
+        "file": "solana-east-new-cairo-luxury-lifestyle-new-cairo-egypt-2.webp",
+        "alt": "Solana East, New Cairo, Egypt: interior and lifestyle views — for villa and apartment buyers in Egypt."
+      },
+      {
+        "file": "solana-east-new-cairo-luxury-living-room-new-cairo.webp",
+        "alt": "Solana East, New Cairo, Egypt: interior and lifestyle views — for villa and apartment buyers in Egypt."
+      },
+      {
+        "file": "solana-east-new-cairo-modern-apartments-ora-developers.webp",
+        "alt": "Solana East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-east-new-cairo-modern-architecture-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "solana-east-new-cairo-modern-architecture-egypt-2.webp",
+        "alt": "Solana East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "solana-east-new-cairo-modern-villa-facade-ora-developers.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-private-villa-entrance-new-cairo.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-residential-buildings-ora-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-east-new-cairo-residential-complex-new-cairo.webp",
+        "alt": "Solana East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "solana-east-new-cairo-residential-complex-ora-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "solana-east-new-cairo-row-houses-modern-design.webp",
+        "alt": "Solana East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "solana-east-new-cairo-row-houses-modern-design-2.webp",
+        "alt": "Solana East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "solana-east-new-cairo-row-houses-modern-design-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "solana-east-new-cairo-site-layout-new-cairo-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "solana-east-new-cairo-site-layout-new-cairo-egypt-2.webp",
+        "alt": "Solana East, New Cairo, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      },
+      {
+        "file": "solana-east-new-cairo-standalone-villa-modern-design.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-standalone-villa-new-cairo-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-townhouse-community-ora-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "solana-east-new-cairo-townhouses-new-cairo-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "solana-east-new-cairo-townhouses-new-cairo-egypt-2.webp",
+        "alt": "Solana East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      },
+      {
+        "file": "solana-east-new-cairo-ultra-luxury-villa-new-cairo.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-ultra-luxury-villa-new-cairo-2.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-urban-design-apartments-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: apartments — for sale in a gated compound."
+      },
+      {
+        "file": "solana-east-new-cairo-villa-architecture-modern-egypt.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-villa-architecture-modern-egypt-2.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-villa-interior-modern-design.webp",
+        "alt": "Solana East, New Cairo, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "solana-east-new-cairo-luxury-home-design-egypt-2.webp",
+        "alt": "Solana East, New Cairo, Egypt: residential community — with villas and apartments for sale."
+      },
+      {
+        "file": "solana-east-new-cairo-townhouses-new-cairo-egypt-3.webp",
+        "alt": "Solana East, New Cairo, Egypt: townhouses — for sale in this ORA community."
+      }
+    ]
+  },
+  "silversands": {
+    "hero": [
+      {
+        "file": "silversands-north-coast-beachfront-crystal-lagoon-sidi-heneish.webp",
+        "alt": "Silversands, North Coast, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "silversands-north-coast-beachfront-crystal-lagoon-sidi-heneish-2.webp",
+        "alt": "Silversands, North Coast, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "silversands-north-coast-layout-luxury-coastal-community-egypt.webp",
+        "alt": "Silversands, North Coast, Egypt: mixed-use community layout — helpful when comparing prices and payment plans."
+      }
+    ],
+    "amenities": [
+      {
+        "file": "silversands-north-coast-lagoon.webp",
+        "alt": "Silversands, North Coast, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "silversands-north-coast-beach-lifestyle-north-coast-egypt.webp",
+        "alt": "Silversands, North Coast, Egypt: interior and lifestyle views — for villa and apartment buyers in Egypt."
+      },
+      {
+        "file": "silversands-north-coast-clubhouse-beachfront-facilities.webp",
+        "alt": "Silversands, North Coast, Egypt: amenities and shared facilities — supporting villas and apartments for sale."
+      },
+      {
+        "file": "silversands-north-coast-garden-view-coastal-community.webp",
+        "alt": "Silversands, North Coast, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      },
+      {
+        "file": "silversands-north-coast-north-coast-lagoon-view-egypt.webp",
+        "alt": "Silversands, North Coast, Egypt: parks and landscaped outdoor spaces — near homes for sale in the compound."
+      }
+    ],
+    "gallery": [
+      {
+        "file": "silversands-north-coast-villa-ora-developers.webp",
+        "alt": "Silversands, North Coast, Egypt: villas — for sale with contemporary architecture."
+      },
+      {
+        "file": "silversands-north-coast-pool-area-north-coast-lifestyle.webp",
+        "alt": "Silversands, North Coast, Egypt: amenities and shared facilities — supporting villas and apartments for sale."
+      },
+      {
+        "file": "silversands-north-coast-relaxation-sea-view-resort-egypt.webp",
+        "alt": "Silversands, North Coast, Egypt: interior and lifestyle views — for villa and apartment buyers in Egypt."
+      },
+      {
+        "file": "silversands-north-coast-villas-for-sale-north-coast-egypt.webp",
+        "alt": "Silversands, North Coast, Egypt: villas — for sale with contemporary architecture."
+      }
+    ]
+  },
+  "_meta": {
+    "generated": "2026-04-05T21:40:41.055Z",
+    "sourceCount": 177,
+    "sources": [
+      "images/",
+      "assets/"
+    ],
+    "extras": {
+      "pyramids-hills": [
+        "pyramids-hills-giza-terrace.webp",
+        "pyramids-hills-giza-landscape-design-luxury-compound-egypt.webp",
+        "pyramids-hills-giza-master-plan-giza-egypt.webp",
+        "pyramids-hills-giza-outdoor-seating-fireplace-area.webp",
+        "pyramids-hills-giza-terrace-view-luxury-living-giza.webp"
+      ],
+      "founder": [
+        "founder-egypt-ora-developers-egypt-founder-profile.webp"
+      ],
+      "misc": [
+        "misc-egypt-hero-home.webp"
+      ]
+    }
+  }
+}
